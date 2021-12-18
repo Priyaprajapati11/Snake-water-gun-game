@@ -1,6 +1,5 @@
-import random
 # Snake water gun or Rock paper scissorss
-
+import random
 def gameWin(comp,you):
     if comp == you:
         return None
